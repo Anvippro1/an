@@ -1,1 +1,1 @@
-# an
+[ { "version":"1.0", "aviso":"ÂN VIP PRO V2", "massage":"INJECTOR EXPIRED UPDATE THE INJECTOR\n\nUPDATED INJECTOR AVAILABLE ON CHANNEL ÂN VIP PRO\n\nTHANK YOU GUYS", "toast":"INJECTOR EXPIRED ! PLEASE UPDATE THE INJECTOR AND ENJOY", "link2":"https://youtube.com/c/%C3%82nVipPro1", "link":"https://youtube.com/c/%C3%82nVipPro1" } ]
